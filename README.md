@@ -18,11 +18,13 @@
 
 
 Для четырёх процессов:
+
 ![image](https://github.com/PripyatskyPrometheus/paralel_proga_2/assets/113877569/0780dba8-a8a5-479a-b667-33c3ff584c8b)
 ![image](https://github.com/PripyatskyPrometheus/paralel_proga_2/assets/113877569/15c10188-f67b-4a21-a253-2126e2130b03)
 
 
 Для восьми процессов:
+
 ![image](https://github.com/PripyatskyPrometheus/paralel_proga_2/assets/113877569/48dfadac-20f0-46af-a4d4-5d3c481ff47c)
 ![image](https://github.com/PripyatskyPrometheus/paralel_proga_2/assets/113877569/d50b799b-193c-4601-8cd2-df280d86b44c)
 
