@@ -12,6 +12,7 @@
 
 
 Для двух процессов:
+
 ![image](https://github.com/PripyatskyPrometheus/paralel_proga_2/assets/113877569/dd307875-c3f0-49dc-92b4-5338e737c1d6)
 ![image](https://github.com/PripyatskyPrometheus/paralel_proga_2/assets/113877569/9b8ac55f-eb01-4627-a273-53b3b53adf7b)
 
